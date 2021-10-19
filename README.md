@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/saakarx/sunnyside-agency-landing-page)
-- Live Site URL: [Add live site URL here](https://sunnyside-agency-landing-page-ashen.vercel.app/)
+- Solution URL: [Code URL](https://github.com/saakarx/sunnyside-agency-landing-page)
+- Live Site URL: [Live Site URL](https://sunnyside-agency-landing-page-ashen.vercel.app/)
 
 ## My process
 
